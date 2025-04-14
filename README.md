@@ -4,6 +4,12 @@ ChatPilot is an AI-powered WhatsApp agent that reads your incoming messages and 
 
 ---
 
+
+
+https://github.com/user-attachments/assets/9c7ec064-2216-4817-959f-20df83de4a0a
+
+
+
 ## 🚀 Features
 
 - 🔁 Automatically responds to WhatsApp messages in real time
